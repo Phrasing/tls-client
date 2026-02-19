@@ -85,6 +85,7 @@ var MappedTLSClients = map[string]ClientProfile{
 	"okhttp4_android_12":     Okhttp4Android12,
 	"okhttp4_android_13":     Okhttp4Android13,
 	"edge_145":               Edge_145,
+	"edge_145_psk":           Edge_145_PSK,
 }
 
 type ClientProfile struct {
